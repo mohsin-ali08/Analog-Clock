@@ -14,7 +14,7 @@ body{
 .clock{
     width: 400px;
     height: 400px;
-    background: url('clcok.png');
+    background: url('images/clcok.png');
     background-size: cover;
     display: flex;
     justify-content: center;
